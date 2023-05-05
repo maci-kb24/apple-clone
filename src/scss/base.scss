@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+body {
+  font-family: $font-primary;
+}
+h1 {
+  font-weight: $fw-600;
+  color: $primary-100;
+}
